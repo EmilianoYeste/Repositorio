@@ -368,6 +368,10 @@ body div div button{
         flex-direction: row;
         justify-content: space-evenly;
     }
+
+    .titulo{
+        font-size: 70px;
+    }
     
     }
 
